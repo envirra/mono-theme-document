@@ -6,7 +6,7 @@ module.exports = function( grunt ) {
 		watch: {
 			book: {
 				// We watch and compile sass files as normal but don't live reload here
-				files: [ '**/*.md', '**/*.png', '!_book', '!node_modules' ],
+				files: [ '**/*.md', '**/*.png', '!_book/*', '!node_modules/*' ],
 				tasks: [ 'build' ],
 				options: {
 					spawn: false,
