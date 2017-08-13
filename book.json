@@ -1,5 +1,8 @@
 {
 	"variables": {
-		"themeslug": "mono"
+		"themeslug": "mono",
+		"themename": "Mono",
+		"wpversion": "4.4",
+		"phpversion": "5.3"
 	}
 }
