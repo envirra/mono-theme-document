@@ -1,0 +1,26 @@
+{
+  "name": "mono-theme-document",
+  "version": "1.0.0",
+  "description": "![](images/logo.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/envirra/mono-theme-document.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/envirra/mono-theme-document/issues"
+  },
+  "homepage": "https://github.com/envirra/mono-theme-document#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-exec": "^3.0.0",
+    "grunt-gitbook": "^1.5.0",
+    "jit-grunt": "^0.10.0"
+  }
+}
