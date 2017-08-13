@@ -7,7 +7,7 @@ Thank you for purchasing this theme. We've put in lots of love in developing thi
 
 **Mono** Wordpress theme is a WooCommerce Wordpress theme designed and developed for use with Wordpress 4.2.2 or higher. The code was written to be backwards compatible where possible, however we recommend you use the current WP version when possible. If you are not using WordPress 4.2.2 or higher and can upgrade your site we recommend you do this before installation.
 
-Although every effort has been made to ensure the theme is bug free and easy to use there is always a chance errors may occur. If you do find a problem please notify us immediately through [**comment page**](https://themeforest.com/user/envirra/) so we can ensure it gets fixed as quickly as possible. {{ book.themeslug }}
+Although every effort has been made to ensure the theme is bug free and easy to use there is always a chance errors may occur. If you do find a problem please notify us immediately through [**comment page**](https://themeforest.com/user/envirra/) so we can ensure it gets fixed as quickly as possible.
 
 
 ### Need Help ?
