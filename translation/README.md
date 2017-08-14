@@ -1,6 +1,6 @@
 # Translation
 
-This theme is translation ready. The translation files .po/.mo are located in the theme folder **wp-content/themes/{{ book.themename }}/languages**. We've included English Translation right away.
+This theme is translation ready. The translation files .po/.mo are located in the theme folder **wp-content/themes/{{ book.slug }}/languages**. We've included English Translation right away.
 
 ### WordPress Translation Setting
 
@@ -11,16 +11,16 @@ For WordPress 4.0 + users please follow below steps
 
 ### Translating The Theme
 
-1. Open presso.pot file using [POEdit](http://www.poedit.net/)
-2. Click Create new translation button and choose the language.
+1. Open file **wp-content/themes/{{ book.slug }}/languages/{{ book.themeslug }}.pot** using [POEdit](http://www.poedit.net/)
+2. Click **Create new translation** button and choose the language.
 3. Translate the text.
 4. Hit save, a new .PO and .MO file will be created.
 5. Dont't forget to backup the created .PO and .MO files.
 
 ### Rename/Change Words
 
-1. Open presso.pot file using [POEdit](http://www.poedit.net/)
-2. Click Create new translation button and choose the English language.
+1. Open file **wp-content/themes/{{ book.slug }}/languages/{{ book.themeslug }}.pot** using [POEdit](http://www.poedit.net/)
+2. Click **Create new translation** button and choose the **English** language.
 3. Change the words you want.
 4. Hit save, a new .PO and .MO file will be created.
 5. Dont't forget to backup the created .PO and .MO files.
