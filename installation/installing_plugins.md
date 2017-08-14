@@ -14,7 +14,7 @@ The following is the list of plugins in alphabetical order that are recommended 
 
 * **[Slider Revolution](http://codecanyon.net/item/slider-revolution-responsive-wordpress-plugin/2751380/?ref=envirra)** - Allows you to create a responsive(mobile friendly) or fullwidth slider with must-see-effects and meanwhile keep or build your SEO optimization. This is a premium plugin and comes bundled with your theme.
 
-* ** {{ book.themename }} Extensions ** - This is a custom plugin built by Transvelo. Keeping in mind the plugin territory recommendations by ThemeForest we had implemented custom shortcodes and taxonomies functionalities into a separate plugin. This plugin also contains the Visual Composer extensions added by us.
+* ** {{ book.themename }} Extensions ** - This is a custom plugin. Keeping in mind the plugin territory recommendations by ThemeForest we had implemented custom shortcodes and taxonomies functionalities into a separate plugin. This plugin also contains the Visual Composer extensions added by us.
 
 * **[WooCommerce](https://wordpress.org/plugins/woocommerce/)** — WooCommerce is a powerful, extendable eCommerce plugin that helps you sell anything. Beautifully.
 
